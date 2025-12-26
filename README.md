@@ -1,4 +1,4 @@
-# ReactBlog
+# BlogForge
 
 A full‑stack blog application built with React, Vite, Redux Toolkit, React Hook Form, and Appwrite (Auth, Database, and Storage). It features a rich text editor for content creation, protected routes, image upload/display, and a clean Tailwind UI.
 
